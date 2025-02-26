@@ -1,1 +1,2 @@
 # Database_Metro_Density_Management_Project
+Database_Metro_Density_Management_Project Sql queries
